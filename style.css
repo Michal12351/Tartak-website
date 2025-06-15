@@ -68,4 +68,10 @@ footer {
 #contact {
     display: flex;
     justify-content: space-around;
+    overflow: scroll;
+}
+
+#map {
+    width: 400px;
+    height: 300px;
 }
